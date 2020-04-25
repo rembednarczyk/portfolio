@@ -22,9 +22,27 @@ Certified Software Tester with over 6 years of commercial experience in Universi
 
 ## Courses 
 
-*
-*
-*
+* Applying the Lambda Architecture with Spark, Kafka, and Cassandra
+* Automatyzacja testów Selenium WebDriver
+* Bazy danych – podstawy projektowania relacyjnych baz danych
+* Beginning Data Exploration and Analysis with Apache Spark
+* Complete Step By Step Java For Testers
+* Continuous Integration and Continuous Delivery: The Big Picture
+* Getting Started with Apache Kafka
+* Getting Started with HDFS
+* How Git Works
+* ISTQB - Poziom zaawansowany, Techniczny analityk testów
+* Introduction to MongoDB
+* Javascript: Getting Started
+* Microsoft SQL Server 2012
+* Programista stron z obsługą bazy danych
+* Reasoning About Asynchronous JavaScript
+* Rest API Automation With Rest Assured - Novice To Ninja
+* Szkolenie Trenerskie
+* Take Control of Your Big Data with HUE in Cloudera CDH
+* TestNG Complete Bootcamp For Beginners - Novice To Ninja
+* The Building Blocks of Hadoop - HDFS, MapReduce, and YARN
+* The Successful Technical Interview for Interviewers
 
 ## Technical Books read
 
